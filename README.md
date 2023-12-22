@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Arya560
-- 👀 I’m interested in Web techonologies(JS,react,Node,mongoDB etc) DS and algo(c++)
+- 👀 I’m interested in Web techonologies(JS,react,Node,mongoDB etc) DS and algo
 - 🌱 I’m currently learning JS, Node, DS and Algo
 - 💞️ I’m looking to collaborate on projects to enhance my skills mentioned above
 - 📫 How to reach me contact me on coderbilli@gmail.com
